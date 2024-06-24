@@ -1,5 +1,5 @@
 describe('template spec', () => {
   it('passes', () => {
-    cy.visit('https://webdriveruniversity.com/')
+    cy.visit('https//www.goggle.com/')
   })
 })
